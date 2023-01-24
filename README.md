@@ -19,7 +19,8 @@
   
 ### 2. Predicting Popularity of News Stories
 
-####BUSINESS OBJECTIVE
+#### Business Objective:
+
 ● Background:
 
 Mashable is an international entertainment, culture, tech, science and social good digital media platform, news website and multi-platform media and entertainment company.
